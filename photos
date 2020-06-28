@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="" class="silex-runtime"><head>
+    <meta charset="UTF-8">
+    <!-- generator meta tag -->
+    <!-- leave this for stats and Silex version check -->
+    <meta name="generator" content="Silex v2.2.10">
+    <!-- End of generator meta tag -->
+    <script type="text/javascript" src="https://editor.silex.me/static/2.10/jquery.js" data-silex-static=""></script>
+    <script type="text/javascript" src="https://editor.silex.me/static/2.10/jquery-ui.js" data-silex-static=""></script>
+    <script type="text/javascript" src="https://editor.silex.me/static/2.10/pageable.js" data-silex-static=""></script>
+    <script type="text/javascript" src="https://editor.silex.me/static/2.10/front-end.js" data-silex-static=""></script>
+    <link rel="stylesheet" href="https://editor.silex.me/static/2.10/normalize.css" data-silex-static="">
+    <link rel="stylesheet" href="https://editor.silex.me/static/2.10/front-end.css" data-silex-static="">
+
+    <style type="text/css" class="silex-style"></style>
+    <script type="text/javascript" class="silex-script"></script>
+    <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1);}.silex-id-1478366444112-1 {top: 100px; background-color: transparent; min-height: 100px;}.silex-id-1478366444112-0 {min-height: 100px; background-color: transparent; width: 1200px;}.silex-id-1474394621033-3 {top: 5px; left: 0px;}.silex-id-1474394621032-2 {min-height: 600px; background-color: transparent; width: 1200px;}.silex-id-1593311172888-2 {width: 100px; min-height: 100px; top: 233.00994873046875px; left: 193.00143432617188px;}.silex-id-1593311266723-3 {width: 312px; min-height: 167px; top: 333.0071029663086px; left: 109.67518424987793px;}.silex-id-1593312429901-5 {width: 323.0483093261719px; min-height: 167.91903686523438px; top: 325.0809631347656px; left: 625.9516906738281px;}.silex-id-1593312478375-6 {width: 100px; min-height: 100px; top: 243.007568359375px; left: 731.0042724609375px;}.silex-id-1593310828706-1 {width: 390px; min-height: 81px; top: 43.010887145996094px; left: 352.01422119140625px;}.silex-id-1478366450713-3 {top: 100px; background-color: transparent;}.silex-id-1478366450713-2 {min-height: 100px; background-color: transparent; width: 1200px;}.silex-id-1442914737143-3 {min-height: 53px; width: 349px; top: 29px; left: 430px;}</style>
+    <title></title>
+    <script type="text/json" class="silex-json-styles">[{"fonts":[{"family":"'Roboto', sans-serif","href":"https://fonts.googleapis.com/css?family=Roboto"}],"desktop":{"body-initial":{"background-color":"rgba(255,255,255,1)"},"silex-id-1474394621033-3":{"top":"5px","left":"0px"},"silex-id-1474394621032-2":{"min-height":"600px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1474394605264-1":{"min-height":"100px","width":"100px","top":"100px","left":"100px"},"silex-id-1474394605263-0":{"min-height":"100px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"53px","width":"349px","top":"29px","left":"430px","height":""},"silex-id-1478366444112-0":{"min-height":"100px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1478366444112-1":{"top":"100px","background-color":"transparent","min-height":"100px","left":"","height":""},"silex-id-1478366450713-2":{"min-height":"100px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1478366450713-3":{"top":"100px","background-color":"transparent"},"silex-id-1593310490933-0":{"min-height":"116px","top":"0px","left":"0px","width":"0px"},"silex-id-1593310828706-1":{"width":"390px","min-height":"81px","top":"43.010887145996094px","left":"352.01422119140625px"},"silex-id-1593311172888-2":{"width":"100px","min-height":"100px","top":"233.00994873046875px","left":"193.00143432617188px"},"silex-id-1593311266723-3":{"width":"312px","min-height":"167px","top":"333.0071029663086px","left":"109.67518424987793px"},"silex-id-1593312405749-4":{"min-height":"0px","top":"600px","left":"0px","width":"0px"},"silex-id-1593312429901-5":{"width":"323.0483093261719px","min-height":"167.91903686523438px","top":"325.0809631347656px","left":"625.9516906738281px"},"silex-id-1593312478375-6":{"width":"100px","min-height":"100px","top":"243.007568359375px","left":"731.0042724609375px"}},"mobile":{},"prodotypeData":{"component":{},"style":{"all-style":{"className":"all-style","templateName":"text","displayName":"All style","styles":{"desktop":{"normal":{"className":"all-style","pseudoClass":"normal","All":{"font-family":"'Roboto', sans-serif","font-weight":"normal","font-style":"normal","font-variant":"normal","text-align":"center"}}}}}}}}]</script>
+
+    
+<style class="silex-prodotype-style" type="text/css" data-style-id="all-style">.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; font-style: normal; font-variant: normal; font-weight: normal; text-align: center;}</style><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="website-width" content="1200"><style type="text/css" class="silex-style-settings">.website-width {width: 1200px;}</style><meta name="hostingProvider" content="unifile"><!-- Silex HEAD tag do not remove -->
+    <!-- End of Silex HEAD tag do not remove --></head>
+
+<body data-silex-id="body-initial" class="body-initial all-style enable-mobile prevent-draggable prevent-resizable prevent-selectable silex-runtime" data-silex-type="container-element" style="">
+    <div class="silex-pages">
+        
+
+        <a id="page-page-1" data-silex-type="page-element" class="page-element" href="#!page-page-1">Page 1</a></div>
+
+
+
+
+
+
+
+
+
+    <div data-silex-type="container-element" class="prevent-draggable container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" data-silex-id="silex-id-1478366444112-1" style="">
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1478366444112-0"></div>
+    </div>
+    <div data-silex-type="container-element" class="prevent-draggable container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable" data-silex-id="silex-id-1474394621033-3" style="">
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1474394621032-2"><div data-silex-type="text-element" class="editable-style silex-id-1593311172888-2 text-element" data-silex-id="silex-id-1593311172888-2" style=""><div class="silex-element-content normal"><h3>Before<br></h3><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div><div data-silex-type="image-element" class="editable-style silex-id-1593311266723-3 image-element" data-silex-id="silex-id-1593311266723-3" style=""><img src="The-Mysteries-of-the-Weather-What-Are-Cyclones-and-Anticyclones-3.jpg" class="silex-element-content"></div><div data-silex-type="image-element" class="editable-style silex-id-1593312429901-5 image-element" data-silex-id="silex-id-1593312429901-5" style=""><img src="goku%20storm.jpg" class="silex-element-content"></div><div data-silex-type="text-element" class="editable-style silex-id-1593312478375-6 text-element" data-silex-id="silex-id-1593312478375-6" style=""><div class="silex-element-content normal"><h3>After<br></h3><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div><div data-silex-type="text-element" class="editable-style silex-id-1593310828706-1 text-element" data-silex-id="silex-id-1593310828706-1" style=""><div class="silex-element-content normal"><h1>We Can edit your images</h1><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div></div>
+    </div>
+    <div data-silex-type="container-element" class="prevent-draggable container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" data-silex-id="silex-id-1478366450713-3" style="">
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1478366450713-2">
+
+            <div data-silex-id="silex-id-1442914737143-3" class="editable-style silex-id-1442914737143-3 text-element" data-silex-type="text-element" style="">
+                <div class="silex-element-content normal">
+                    <br>
+                    <div style="text-align: center;"><a href="//www.silex.me/">Powered by Silex</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
